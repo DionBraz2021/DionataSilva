@@ -5,7 +5,8 @@
 👨‍🎓 Sou estudante de Estatística pela Universidade de Brasília, e Ciência de dados e Inteligência Artificial pelo IESB.
 🧑‍💻 Estou em busca da minha primeira oportunidade profissional como desenvolvedor.
 #📚 No momento estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
             
 #📱 Contatos:
 <div>
