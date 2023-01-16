@@ -1,5 +1,5 @@
 # Olá pessoal 👋
-## Me Chamo Dionata Silva!
+Me Chamo Dionata Silva!
 # Bem vindos ao meu perfil do GitHub👋
 <div>📒 Atualmente estou trabalhando como Estagiário de finanças, na CNP Seguros Holding Brasil.</div>
 <div>👨‍🎓 Sou estudante de Estatística pela Universidade de Brasília, e Ciência de dados e Inteligência Artificial pelo IESB.</div>
